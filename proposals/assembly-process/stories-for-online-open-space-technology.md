@@ -1,22 +1,23 @@
-Stories for Online Open Space Technology
-========================================
+# Stories for Online Open Space Technology
 
-Invitation Writing
-------------------
+## Invitation Writing
 
-This will be very similar to normal inviting (see [https://projects.appropriatesoftware.org/assembly/trac/wiki/OpenSpaceTechnology#InvitationWriting OpenSpaceTechnology]), but need to explain how to connect to a server (rather than how to travel to a building).
+This is very similar to normal inviting, see 
+[OpenSpaceTechnology](https://projects.appropriatesoftware.org/assembly/trac/wiki/OpenSpaceTechnology#InvitationWriting).
 
-Worth trying to collect commitments to attend, either with a Facebook event or with an event booking system.
+Need to explain how to connect to a server (rather than how to travel to a building).
 
-Build Up
---------
+Try to collect commitments to attend, either with a Facebook event or with an event booking system.
+
+## Build Up
 
 Remind people about the event.
 
 Provide a way for people to kick around ideas for sessions (but make sure the agenda is only created at the start of the event, otherwise confidence in open agenda setting at the event is compromised).
 
-Opening the Space
------------------
+## Opening the Space
+
+*derived from [this page](http://www.openspaceworld.org/tmnfiles/describe.htm)*
 
 At the start of the event, the facilitator opens the space by explaining how open space technology works, what the concern is that the meeting is addressing, and what kind of outcomes are expected from the sessions. Having a written script that is used each time generates consistency across meetings, and allows people who arrive late to figure out how things work.
 
@@ -24,9 +25,7 @@ At the start of the event, the facilitator opens the space by explaining how ope
 * OpeningOnlineOpenSpace
 
 
-''derived from [http://www.openspaceworld.org/tmnfiles/describe.htm this page]''
-
-== Welcome, Create space ==
+### Welcome, Create space
 
 Sit back, take a deep breath.
 
@@ -40,7 +39,7 @@ Introduce myself, "honored to be here"
 
 Indicate which script is being followed in this meeting (provide a link) and describe how people can suggest improvements to the script for future events.
 
-=== Example ===
+**Example**
 
 "Hello everybody, welcome to the Open Space.
 
@@ -48,7 +47,7 @@ Indicate which script is being followed in this meeting (provide a link) and des
 
 "Please let´s take a moment to explore the virtual environment we are in. This may be the first time you are in Mumble. When you want to talk you just have to press the key you arranged previously on your audio settings. Please go to the room ''Audio Problems'' or ''Help with Mumble'' if you have any technical difficulty to listen or make yourself heard. In your left you have a column which is used for chat, and which can be used to share extra information and content, without interrupting the conversation."
 
-== State the theme ==
+### State the theme
 
 State it clearly, succinctly and provocatively
 
@@ -56,11 +55,11 @@ Expectations for outcome (e.g., get as specific as you can so that you can leave
 
 Constraints and commitments
 
-=== Example ===
+**Example**
 
 "We are gathered here to make a difference to the world we are in, including to the way we approach such development. Outcomes may include changes to already existing stories, changes to software systems, improvements in understanding of how something works, "
 
-== How does this work? ==
+### How does this work?
 
 Distribute link to online pad available for creating the schedule
 
@@ -84,7 +83,7 @@ Housekeeping
 
  * Bells for gathering everyone together
 
-== Principles ==
+### Principles
 
 Whoever comes are the right people
 
@@ -126,7 +125,7 @@ Be prepared to be surprised
 
  * Never before, never again will this group be together
 
-== Do It ==
+### Do It
 
 Its time, remember, if your issue or pet peeve is not addressed, look to yourself
 
@@ -134,10 +133,28 @@ My hope for you, that you reach your goals...that magic happens
 
 So, I invite you now to come into the circle, write down your topic, your name, announce it and we’re underway
 
-[Keep up patter; encourage them to keep sessions separate even if similar]
+Encourage them to keep sessions separate even if similar.
 
-Closing the Space
------------------
+## Closing the Space
 
-* ClosingOnlineOpenSpace
+*derived from [this page](http://www.openspaceworld.org/tmnfiles/describe.htm)*
 
+Keep in the style and spirit of the gathering. There are two basic areas to process with people: what content related things came out for them; what did they learn about the principles in action (how does this process apply back in the real world?).
+
+Are there stories anyone wants to tell?
+
+Perhaps new insights into their work or experiences with the principles or the law?
+
+What common ideas emerged?
+
+Try doing a quick "around the circle" question: Name the most important priority that emerged for you.
+
+Consider asking them to write down something that they think would be useful to remember: a task, a commitment, an idea and put it above their desk or somewhere they can reference it later.
+
+Do a talking stick closing: talk about what this experience meant to you.
+
+Acknowledge their accomplishments: They’ve just blow their cover: you have demonstrated that you can work together; give examples from the session; now you have a choice.
+
+Make my request of them: be the change they want in the world: bring this way of working together back to the work place and share it with others.
+
+Say thank you...its been an honour to be with you.
