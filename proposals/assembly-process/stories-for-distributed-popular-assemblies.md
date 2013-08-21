@@ -1,7 +1,7 @@
 Stories for Distributed Popular Assemblies
 ==========================================
 
-The following one-line "stories" distinguish separate activities which might constitute the assembly process.
+The following "stories" name separate activities which may constitute a distributed popular assembly.
 
 *NB This is just an initial design. Please join the [mailing list](http://lists.appropriatesoftware.org/mailman/listinfo/paes-discuss) and post your thoughts, feelings and opinions there. :-)*
 
