@@ -12,10 +12,8 @@ Non-Member Stories
 
 * Discover and read about how the assembly works
 * Comment on how the assembly works
-
 * Discover and read about proposals
 * Discover and read about assembly groups
-
 * Register as a member of the assembly network
 
 Assembly Member Stories
@@ -72,11 +70,9 @@ Branch Maintenance Stories
 *Branch maintainers simply add the changes they wish (or their group wishes) to add to their branch. Consensus with others is produced by merging different branches.*
 
 * Make changes to branch
-
 * Request changes are merged into other branches
 * Discuss any objections to merge request
 * Accept or reject objections to merge request
-
 * Decide incoming merge request policy
 * Read and consider merge request
 * Raise and discuss objections to merge request
@@ -89,15 +85,12 @@ Group Stories
 * Decide purpose of group
 * Decide membership process
 * Decide working process
-
 * Register group with assembly
 * Decide group's branch maintainer(s)
 * Hold regular meetings to discuss improvements to proposed policy
-
 * Report on the number of members of the group
 * Report on policy developments across the group
 * Report on support for proposed policy across the group
-
 * Close assembly group
 
 Convener Group Stories
@@ -107,21 +100,16 @@ Convener Group Stories
 
 * Create and maintain assembly processes (including membership terms and conditions)
 * Create and maintain initial branch of the proposed policy
-
 * Create and maintain register of assembly members
 * Unregister member in breach of eligibility criteria
-
 * Create and maintain register of assembly groups
 * Unregister group in breach of eligibility criteria
-
 * Report on policy developments across the assembly
-
 * Terminate the assembly process
 
 *Conveners are responsible for measuring and reporting on support for proposed policy across the assembly. The open data approach means others are also able to do this.*
 
 * Organise votes to be taken on proposals at regular intervals
-
 * Create and maintain ways of measuring and reporting support for proposed policy across the assembly
 * Measure support for proposed policy across the assembly
 * Report on support for proposed policy across the assembly
