@@ -19,7 +19,9 @@ Non-Member Stories
 Assembly Member Stories
 -----------------------
 
-* Agree assembly membership terms and conditions
+*Members agree with the terms and conditions of membershio.*
+
+* Agree membership terms and conditions
 
 *Members may encourage other people to join the assembly.*
 
@@ -39,7 +41,7 @@ Assembly Member Stories
 * Cancel objection to version of proposed energy policy
 * Unfollow a development branch of proposed energy policy
 
-*Members propose improvements to the assembly process.*
+*Members may propose improvements to the assembly process.*
 
 * Follow a development branch of proposed assembly process
 * Comment on a version of the proposed assembly process
