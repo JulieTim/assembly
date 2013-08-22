@@ -13,58 +13,53 @@ Non-Member Stories
 * Discover and read about how the assembly works
 * Comment on how the assembly works
 
-* Discover and read about different assembly groups
-* Discover and read different versions of the proposed proposed policy
-
-* Read standard membership agreement (includes code of conduct)
+* Discover and read about proposals
+* Discover and read about assembly groups
 
 * Register as a member of the assembly network
 
 Assembly Member Stories
 -----------------------
 
-*Members encourage other people to join the assembly.*
+* Agree assembly membership terms and conditions
+
+*Members may encourage other people to join the assembly.*
 
 * Encourage other people to join the assembly process
 
-*Members propose improvements to the policy proposals.*
+*Members may create and maintain copies of the proposals*
+
+* Create and maintain copy of the proposed policy
+
+*Members may propose improvements to the policy proposals.*
 
 * Follow a development branch of proposed energy policy
 * Comment on a version of the proposed energy policy
-* Unfollow a development branch of proposed energy policy
-
 * Raise objection to version of proposed energy policy
 * Suggest improvement to version of proposed energy policy
 * Resolve objection to version of proposed energy policy
 * Cancel objection to version of proposed energy policy
+* Unfollow a development branch of proposed energy policy
 
 *Members propose improvements to the assembly process.*
 
 * Follow a development branch of proposed assembly process
 * Comment on a version of the proposed assembly process
-* Unfollow a development branch of proposed assembly process
-
 * Raise objection to version of assembly process
 * Suggest improvement to version of assembly process
 * Resolve objection to version of assembly process
 * Cancel objection to version of assembly process
+* Unfollow a development branch of proposed assembly process
+
+*Members may delegate their vote to another member.*
+
+* Delegate vote to another member
 
 *Members may work alone or cluster together in groups around particular concerns.*
 
 * Join an assembly group
 * Leave an assembly group
-
 * Create an assembly group
-
-* Create and maintain branches of the proposed policy
-
-*Members indicate their degree of satisfaction with proposed energy policy and assembly process.*
-
-* Approve version of proposed energy policy
-* Disapprove version of proposed energy policy
-
-* Approve version of proposed assembly process
-* Disapprove version of proposed assembly process
 
 *Members may leave the assembly.*
 
@@ -89,7 +84,7 @@ Branch Maintenance Stories
 Group Stories
 -------------
 
-*Branches can be maintained by individuals or groups.*
+*Groups may be formed to work on particular concerns. Groups may meeting online or face to face.*
 
 * Decide purpose of group
 * Decide membership process
@@ -110,7 +105,7 @@ Convener Group Stories
 
 *The convener group is responsible for creating and maintaining a safe, approachable, and inviting process that is capable of accomplishing the goals of the project.*
 
-* Create and maintain assembly processes
+* Create and maintain assembly processes (including membership terms and conditions)
 * Create and maintain initial branch of the proposed policy
 
 * Create and maintain register of assembly members
@@ -123,7 +118,9 @@ Convener Group Stories
 
 * Terminate the assembly process
 
-*Conveners are responsible for measuring and reporting on support for proposed policy across the assembly. (The open data approach means others are also able to do this.*
+*Conveners are responsible for measuring and reporting on support for proposed policy across the assembly. The open data approach means others are also able to do this.*
+
+* Organise votes to be taken on proposals at regular intervals
 
 * Create and maintain ways of measuring and reporting support for proposed policy across the assembly
 * Measure support for proposed policy across the assembly
