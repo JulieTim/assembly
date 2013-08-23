@@ -17,7 +17,7 @@ Non-Member Stories
 Assembly Member Stories
 -----------------------
 
-*Members agree with the terms and conditions of membershio.*
+*Members agree with the terms and conditions of membership.*
 
 * Agree membership terms and conditions
 
