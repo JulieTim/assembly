@@ -11,4 +11,6 @@ For more information,  please [visit the project wiki](https://projects.appropri
 
 ## Proposals
 
-* [Distributed assembly process](./proposals/assembly-process/assembly-process/stories-for-distributed-popular-assemblies.md)
+* [Distributed assembly process](./proposals/assembly-process/stories-for-distributed-popular-assemblies.md)
+
+
