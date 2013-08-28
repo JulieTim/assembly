@@ -9,8 +9,9 @@ This repository contains stories for assembly processes. Everybody is free to co
 
 For more information,  please [visit the project wiki](https://projects.appropriatesoftware.org/assembly/trac).
 
-## Proposals
+## Story Proposals
 
-* [Distributed assembly process](./proposals/assembly-process/stories-for-distributed-popular-assemblies.md)
+* [Stories for Distributed Popular Assemblies](./proposals/assembly-process/stories-for-distributed-popular-assemblies.md)
+* [Stories for Online Open Space](proposals/assembly-process/stories-for-online-open-space-technology.md)
 
 
