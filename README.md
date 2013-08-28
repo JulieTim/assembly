@@ -12,6 +12,6 @@ For more information,  please [visit the project wiki](https://projects.appropri
 ## Story Proposals
 
 * [Stories for Distributed Popular Assemblies](./proposals/assembly-process/stories-for-distributed-popular-assemblies.md)
-* [Stories for Online Open Space](proposals/assembly-process/stories-for-online-open-space-technology.md)
+* [Stories for Online Open Space Technology](proposals/assembly-process/stories-for-online-open-space-technology.md)
 
 
