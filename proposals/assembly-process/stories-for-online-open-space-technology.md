@@ -57,7 +57,7 @@ Constraints and commitments
 
 **Example**
 
-"We are gathered here to make a difference to the world we are in, including to the way we approach such development. Outcomes may include changes to already existing stories, changes to software systems, improvements in understanding of how something works, "
+"We are gathered here to make a difference. Outcomes may include: improved understanding of how something works, notes about an issue that needs resolving, recommendations for resolving a known issue, discussing and making changes to written materials, a new collaboration."
 
 ### How does this work?
 
