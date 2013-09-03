@@ -1,4 +1,4 @@
-# Panel of Speakers with Questions and Answers
+# Panel of Speakers, with Questions
 
 Arrange a panel of speakers and invite an audience.
 
