@@ -1,6 +1,6 @@
 # Pool of Facilitators
 
-Create and maintain a register facilitators, perhaps with a spreadsheet.
+Create and maintain a register of facilitators, perhaps with a spreadsheet.
 
 Invite people to join the pool of facilitators.
 
