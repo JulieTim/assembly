@@ -11,15 +11,12 @@ Commonly desired outcomes of assemblies include:
 * Meeting other people
 * Stronger community
 * Being part of a bigger process
-
 * Individual voices are actually heard
 * Improving abilities to speak in a group
 * Group discussions about topics of concern
-
 * New or improved proposals
 * Collective decision making
 * Collective political vision
-
 * Improvements to assembly process
 
 
