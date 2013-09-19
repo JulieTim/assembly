@@ -1,11 +1,19 @@
 # Stories for Online Open Space Technology
 
+## Decide Theme
+
+Open Space Technology meetings revolve around a theme, sometimes phrased as a question.
+
+Think about expectations for outcomes. What are you hoping to achieve?
+
+Since this is online, rather than finding a venue, decide which software service will be used (e.g. host name of a Mumble server, and pirate pad or Google doc for writing notes for each session).
+
 ## Invitation Writing
 
 This is very similar to normal inviting, see 
-[OpenSpaceTechnology](https://projects.appropriatesoftware.org/assembly/trac/wiki/OpenSpaceTechnology#InvitationWriting).
+[OpenSpaceTechnology](https://projects.appropriatesoftware.org/assembly/trac/wiki/OpenSpaceTechnology#InvitationWriting). Focus on the theme rather than the methodology.
 
-Need to explain how to connect to a server (rather than how to travel to a building).
+Since this is online, explain how to connect to the server (rather than how to travel to a building).
 
 Try to collect commitments to attend, either with a Facebook event or with an event booking system.
 
@@ -17,41 +25,31 @@ Provide a way for people to kick around ideas for sessions (but make sure the ag
 
 ## Opening the Space
 
-*derived from [this page](http://www.openspaceworld.org/tmnfiles/describe.htm)*
-
 At the start of the event, the facilitator opens the space by explaining how open space technology works, what the concern is that the meeting is addressing, and what kind of outcomes are expected from the sessions. Having a written script that is used each time generates consistency across meetings, and allows people who arrive late to figure out how things work.
-
-* GlobalSquareOpeningPresentation
-* OpeningOnlineOpenSpace
-
 
 ### Welcome, Create space
 
-Sit back, take a deep breath.
-
-Help people to connect to the server. When they join, if necessary move people to a separate room where their audio settings can be adjusted until they can hear and be heard.
+Help people to connect to the server. When they join, if necessary move people to a separate room (or equivalent) where their audio settings can be adjusted until they can hear and be heard.
 
 Make sure there isn't any background noise (Mute people if necessary).
 
-Introduce myself, "honored to be here" 
-
-"I know the skills, ability, knowledge,...caring are in this room"
+Introduce yourself, "honored to be with you. I know the skills, ability, knowledge,...caring are here."
 
 Indicate which script is being followed in this meeting (provide a link) and describe how people can suggest improvements to the script for future events.
 
 **Example**
 
-"Hello everybody, welcome to the Open Space.
+"Hello everybody, welcome to the Open Space."
 
-"It is an inmense pleasure to have each and everyone of you today. There are people from all over the world here which are united by a common concern and dream. Before we jump in I would like to ask you to write the country from where you are coming from, to have an idea of the diversity present in here. Chat: Brazil, Turkey, Spain, etc.
+"It is an inmense pleasure to have each and everyone of you today."
 
-"Please let´s take a moment to explore the virtual environment we are in. This may be the first time you are in Mumble. When you want to talk you just have to press the key you arranged previously on your audio settings. Please go to the room ''Audio Problems'' or ''Help with Mumble'' if you have any technical difficulty to listen or make yourself heard. In your left you have a column which is used for chat, and which can be used to share extra information and content, without interrupting the conversation."
+"Let´s take a moment to explore the virtual environment we are in. This may be the first time you are in Mumble. When you want to talk you just have to press the key you arranged previously on your audio settings. Please go to the room ''Audio Problems'' or ''Help with Mumble'' if you have any technical difficulty to listen or make yourself heard. In your left you have a column which is used for chat, and which can be used to share extra information and content, without interrupting the conversation."
 
 ### State the theme
 
 State it clearly, succinctly and provocatively
 
-Expectations for outcome (e.g., get as specific as you can so that you can leave here and act)
+Describe expectations for outcome (e.g., get as specific as you can so that you can leave here and act)
 
 Constraints and commitments
 
