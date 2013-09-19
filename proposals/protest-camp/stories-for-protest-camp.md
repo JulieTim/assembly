@@ -1,11 +1,11 @@
-= Stories for Protest Camp =
+# Stories for Protest Camp
 
 Camps of protest, solidarity and action have a long and rich history. From 
 Greenham Common to the Camp for Climate Action, Gleneagles to Taksim 
 Gezi Park, they have provided unique opportunities to converge and create 
-autonomous and radical spaces. ''(extracted from [http://www.campaigncc.org/sites/www.campaigncc.org/files/ReclaimthePowerWelcomeBooklet2013.pdf Reclaim the Power Welcome Booklet 2013])''
+autonomous and radical spaces. *(extracted from [Reclaim the Power Welcome Booklet 2013](http://www.campaigncc.org/sites/www.campaigncc.org/files/ReclaimthePowerWelcomeBooklet2013.pdf))*
 
-== Stories ==
+## Stories
 
 * Appropriate location
 * Arrestee support
