@@ -29,3 +29,6 @@ issues about the role of PAs in bringing about democratic change.
 * [Panels of speakers with questions](../effective-meetings/panel-of-speakers-with-questions.md)
 * Workshops
 
+* Central office
+* Signatures group (?)
+
